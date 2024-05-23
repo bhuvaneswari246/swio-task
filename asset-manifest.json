@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/proswio/static/css/main.ac29f999.css",
+    "main.js": "/proswio/static/js/main.0ac3a84e.js",
+    "index.html": "/proswio/index.html",
+    "static/media/logo.svg": "/proswio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.ac29f999.css.map": "/proswio/static/css/main.ac29f999.css.map",
+    "main.0ac3a84e.js.map": "/proswio/static/js/main.0ac3a84e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ac29f999.css",
+    "static/js/main.0ac3a84e.js"
+  ]
+}
